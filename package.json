@@ -1,0 +1,23 @@
+{
+  "name": "@kebian/flags",
+  "version": "1.0.0",
+  "description": "npm module for gosquared/flags",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kebian/flags.git"
+  },
+  "keywords": [
+    "gosquared",
+    "flags"
+  ],
+  "author": "Rob Stiles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kebian/flags/issues"
+  },
+  "homepage": "https://github.com/kebian/flags#readme"
+}
